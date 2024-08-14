@@ -5,7 +5,7 @@
 This is the official code repository for the paper: "Successive optimization of optics and post-processing with differentiable coherent PSF operator and field information".
 
 <div style="text-align:center;">
-    <img src="field-level-joint-design.jpg"/>
+    <img src="overview.jpg"/>
 </div>
 
 ## Key contributions 
