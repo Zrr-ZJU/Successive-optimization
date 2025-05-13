@@ -1,0 +1,133 @@
+{   
+    "Description" : "Enna wide-angle f3.6 hfov31.6 4P",
+    "OBJECT": {
+        "index"   : 0,
+        "roc"     : 0.000000000000000E+000,
+        "distance": 0.000000000000000E+000,
+        "material": "vacuum",
+        "radius"  : 0.000000000000000E+000,
+        "conic"   : 0.000000000000000E+000,
+        "ai-terms": null,
+        "variable": null
+    },
+    "Standard1": {
+        "index"   : 1,
+        "roc"     : 9.674837919638684E+000,
+        "distance": 2.438215201500000E-001,
+        "material": "PK2",
+        "radius"  : 2.670622070891266E+000,
+        "conic"   : 0.000000000000000E+000,
+        "ai-terms": null,
+        "shift": [0.0, 0.0, 0.0],
+        "theta_xyz": [0.0, 0.0, 0.0],
+        "variable": ["c","d"]
+    },
+    "Standard2": {
+        "index"   : 2,
+        "roc"     : 4.667621653122781E+000,
+        "distance": 3.706087106280000E+000,
+        "material": "vacuum",
+        "radius"  : 2.406648702100868E+000,
+        "conic"   : 0.000000000000000E+000,
+        "ai-terms": null,
+        "shift": [0.0, 0.0, 0.0],
+        "theta_xyz": [0.0, 0.0, 0.0],
+        "variable": ["c","d"]
+    },
+    "Standard3": {
+        "index"   : 3,
+        "roc"     : 2.243157985378205E+000,
+        "distance": 4.388787362700000E-001,
+        "material": "LAF2",
+        "radius"  : 9.997062200078394E-001,
+        "conic"   : 0.000000000000000E+000,
+        "ai-terms": null,
+        "shift": [0.0, 0.0, 0.0],
+        "theta_xyz": [0.0, 0.0, 0.0],
+        "variable": ["c","d"]
+    },
+    "Standard4": {
+        "index"   : 4,
+        "roc"     : 0.0,
+        "distance": 2.438215201500000E-001,
+        "material": "vacuum",
+        "radius"  : 9.241864052856992E-001,
+        "conic"   : 0.000000000000000E+000,
+        "ai-terms": null,
+        "shift": [0.0, 0.0, 0.0],
+        "theta_xyz": [0.0, 0.0, 0.0],
+        "variable": ["c","d"]
+    },
+    "STOP": {
+        "index"   : 5,
+        "roc"     : 0.0,
+        "distance": 2.438215201500000E-001,
+        "material": "vacuum",
+        "radius"  : 7.384357102969126E-001,
+        "conic"   : 0.000000000000000E+000,
+        "ai-terms": null,
+        "shift": [0.0, 0.0, 0.0],
+        "theta_xyz": [0.0, 0.0, 0.0],
+        "variable": ["c","d"]
+    },
+    "Standard6": {
+        "index"   : 6,
+        "roc"     : -2.623519556813370E+000,
+        "distance": 1.365400512840000E-001,
+        "material": "SF5",
+        "radius"  : 6.992661244349433E-001,
+        "conic"   : 0.000000000000000E+000,
+        "ai-terms": null,
+        "shift": [0.0, 0.0, 0.0],
+        "theta_xyz": [0.0, 0.0, 0.0],
+        "variable": ["c","d"]
+    },
+    "Standard7": {
+        "index"   : 7,
+        "roc"     : 2.408956619076893E+000,
+        "distance": 2.925858241800000E-001,
+        "material": "vacuum",
+        "radius"  : 7.051407601414375E-001,
+        "conic"   : 0.000000000000000E+000,
+        "ai-terms": null,
+        "shift": [0.0, 0.0, 0.0],
+        "theta_xyz": [0.0, 0.0, 0.0],
+        "variable": ["c","d"]
+    },
+    "Standard8": {
+        "index"   : 8,
+        "roc"     : 1.267871904764785E+001,
+        "distance": 4.583844578820000E-001,
+        "material": "LAKN7",
+        "radius"  : 8.445849207876400E-001,
+        "conic"   : 0.000000000000000E+000,
+        "ai-terms": null,
+        "shift": [0.0, 0.0, 0.0],
+        "theta_xyz": [0.0, 0.0, 0.0],
+        "variable": ["c","d"]
+    },
+    "Standard9": {
+        "index"   : 9,
+        "roc"     : -2.087870509779698E+000,
+        "distance": 4.971078747442467E+000,
+        "material": "vacuum",
+        "radius"  : 9.135818271455112E-001,
+        "conic"   : 0.000000000000000E+000,
+        "ai-terms": null,
+        "shift": [0.0, 0.0, 0.0],
+        "theta_xyz": [0.0, 0.0, 0.0],
+        "variable": ["c","d"]
+    },
+    "IMAGE": {
+        "index"   : 10,
+        "roc"     : 0.000000000000000E+000,
+        "distance": 0.000000000000000E+000,
+        "material": "vacuum",
+        "radius"  : 2.992631544658407E+000,
+        "conic"   : 0.000000000000000E+000,
+        "ai-terms": null,
+        "shift": [0.0, 0.0, 0.0],
+        "theta_xyz": [0.0, 0.0, 0.0],
+        "variable": null
+    }
+}

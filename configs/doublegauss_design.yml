@@ -1,0 +1,34 @@
+# => experiment options
+EXP_NAME: 'zrr test'
+LENS_PATH: './lens_file/l_012.json'
+
+
+# Experiment settings
+lr_base: 1.e-4
+max_iters: 1000
+pupil_sampling: 129
+wavelengths: [486.1e-6, 587.6e-6, 656.3e-6]
+max_view: 21.5
+views: [0., 21.5]
+REF_WAV: 587.6e-6
+
+# sensor information
+kernel_size: 31
+image_delta: 1.2e-3
+H: 3000
+W: 4000
+patch_itv: 200
+image_resolution: 5000
+
+r: [0.,0.,1.]
+g: [0.,1.,0.]
+b: [1.,0.,0.]
+
+# loss constrains
+# 'name': [target, weight]
+loss_functions:
+    ttl: [12.5, 5]
+    effl: [7.616, 100]
+    thickness: [2.e-2, 50]
+    distortion: [0.005, 30]
+    spots: [0., 10]
